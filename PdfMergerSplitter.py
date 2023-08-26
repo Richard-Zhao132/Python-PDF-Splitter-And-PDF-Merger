@@ -1,4 +1,4 @@
-#Title: Python PDF Merger and SPlitter
+#Title: Python PDF Merger and Splitter
 #Richard Zhao
 #NOTE: This program can merge 2 given PDF files together, or split 1 given PDF file into 1 or 2 PDF files
 
